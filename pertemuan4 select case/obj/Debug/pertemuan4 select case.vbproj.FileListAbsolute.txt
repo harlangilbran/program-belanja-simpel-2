@@ -1,0 +1,19 @@
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\bin\Debug\pertemuan4 select case.exe.config
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.vbprojResolveAssemblyReference.cache
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4_select_case.Form1.resources
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4_select_case.Resources.resources
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.vbproj.GenerateResource.Cache
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.xml
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\bin\Debug\pertemuan4 select case.exe
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\bin\Debug\pertemuan4 select case.pdb
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\bin\Debug\pertemuan4 select case.xml
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.exe
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.pdb
+C:\Users\harla\Documents\my project vb\pertemuan4 select case\pertemuan4 select case\bin\Debug\pertemuan4 select case.exe.config
+C:\Users\harla\Documents\my project vb\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.exe
+C:\Users\harla\Documents\my project vb\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.xml
+C:\Users\harla\Documents\my project vb\pertemuan4 select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.pdb
+C:\Users\harla\Documents\my project vb\program belanja select case\pertemuan4 select case\bin\Debug\pertemuan4 select case.exe.config
+C:\Users\harla\Documents\my project vb\program belanja select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.exe
+C:\Users\harla\Documents\my project vb\program belanja select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.xml
+C:\Users\harla\Documents\my project vb\program belanja select case\pertemuan4 select case\obj\Debug\pertemuan4 select case.pdb
